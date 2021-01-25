@@ -5,11 +5,11 @@ public class Fibnoicprogram {
 	public Fibnoicprogram()
 	{
 	}
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+// 	public static void main(String[] args) {
+// 		// TODO Auto-generated method stub
 
-		System.out.println("hi fibnoic");
+// 		System.out.println("hi fibnoic");
 		
-	}
+// 	}
 
 }
